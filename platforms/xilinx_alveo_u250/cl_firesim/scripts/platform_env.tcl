@@ -1,1 +1,0 @@
-set jobs 8
