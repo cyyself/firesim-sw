@@ -1,0 +1,9 @@
+[submodule "testchipip"]
+	path = dependencies/testchipip
+	url = git@github.com:ucb-bar/testchipip.git
+[submodule "dromajo"]
+	path = dependencies/dromajo
+	url = git@github.com:riscv-boom/dromajo.git
+[submodule "riscv-isa-sim"]
+	path = dependencies/riscv-isa-sim
+	url = git@github.com:riscv-software-src/riscv-isa-sim.git
